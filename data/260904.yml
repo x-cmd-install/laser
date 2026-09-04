@@ -7,7 +7,7 @@ about:
   head: 5c81d0f
   archived: false
   latestVersion: v1.7.8
-  collectedAt: 2026-09-04T19:25:26Z
+  collectedAt: 2026-09-04T21:06:05Z
 timeline:
   created: 2024-10-13
   lastCommit: 2026-03-07
@@ -84,5 +84,58 @@ total:
   openIssue: 0
   commit: 357
 ---
+path: /home/runner/.x-repo/github.com/jmattaa/laser
+collectedAt: 2026-09-04T21:06:06Z
+loc:
+  C:
+    code: 1628
+    comments: 57
+    blanks: 299
+    files: 15
+  CHeader:
+    code: 196
+    comments: 7
+    blanks: 64
+    files: 11
+  Lua:
+    code: 94
+    comments: 0
+    blanks: 15
+    files: 4
+  CMake:
+    code: 71
+    comments: 11
+    blanks: 29
+    files: 2
+  Nix:
+    code: 54
+    comments: 0
+    blanks: 12
+    files: 1
+  Sh:
+    code: 52
+    comments: 4
+    blanks: 19
+    files: 5
+  Autoconf:
+    code: 20
+    comments: 0
+    blanks: 2
+    files: 1
+  Fish:
+    code: 17
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 391
+    blanks: 139
+    files: 3
+total:
+  code: 2194
+  comments: 474
+  blanks: 582
+  files: 43
 ---
 
