@@ -1,11 +1,13 @@
 about:
-  description: basically `ls` but `lsr`, and configurable with lua!
+  description:
+  |
+    basically `ls` but `lsr`, and configurable with lua!
   license: MIT
   homepage: 
   head: 5c81d0f
   archived: false
   latestVersion: v1.7.8
-  collectedAt: 2026-09-04T04:21:07Z
+  collectedAt: 2026-09-04T19:25:26Z
 timeline:
   created: 2024-10-13
   lastCommit: 2026-03-07
@@ -16,7 +18,7 @@ popularity:
   fork: 5
   release: 42
   contributor: 3
-  pullRequest: 2
+  pullRequest: 46
   issue: 18
 language:
   C: 68149
@@ -24,10 +26,18 @@ language:
   Shell: 3326
   Lua: 3016
   Nix: 1949
-totalLine: 80813
+totalBytes: 80813
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 18
+  last720d:
+    since: 2024-09-14
+    release: 42
+    mergedPR: 44
+    openPR: 0
+    closedIssue: 18
+    openIssue: 0
+    commit: 357
+total:
+  release: 42
+  mergedPR: 44
+  openPR: 0
+  closedIssue: 18
+  openIssue: 0
+  commit: 357
+---
+---
+
