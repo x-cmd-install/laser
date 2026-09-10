@@ -12,6 +12,18 @@ basically `ls` but `lsr`, and configurable with lua!
 x install laser
 ```
 
+## Code insight
+
+Total: **2,132** lines of code across **33** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 1,628 | 57 | 299 | 15 |
+| CHeader | 196 | 7 | 64 | 11 |
+| Lua | 94 | 0 | 15 | 4 |
+| CMake | 71 | 11 | 29 | 2 |
+| Nix | 54 | 0 | 12 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jmattaa/laser>
@@ -21,7 +33,6 @@ x install laser
 
 - **Latest**: `v1.7.8` (2026-03-07)
 - **Last commit**: 2026-03-07
-- **Published**: 2026-03-07T21:42:20Z
 
 ## Popularity
 
@@ -36,28 +47,19 @@ x install laser
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 4 | 2 | 0 | 0 | 0 | 16 |
-
-## Code size
-
-Total: **2,132** lines of code across **33** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 1,628 | 57 | 299 | 15 |
-| CHeader | 196 | 7 | 64 | 11 |
-| Lua | 94 | 0 | 15 | 4 |
-| CMake | 71 | 11 | 29 | 2 |
-| Nix | 54 | 0 | 12 | 1 |
+| last720d | 2024-09-20 | 42 | 44 | 0 | 18 | 0 | 357 |
 
 ## Improve this data
 
 Install metadata for laser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `laser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/laser.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/laser.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:15:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:45:21Z._
