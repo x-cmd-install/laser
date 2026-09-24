@@ -142,4 +142,3 @@ total:
 ---
 
 ---
-{"id":294303766,"author":{"login":"jmattaa","id":53123386,"node_id":"MDQ6VXNlcjUzMTIzMzg2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOM_qdgs4RirgW","tag_name":"v1.7.8","target_commitish":"main","name":"v1.7.8","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-03-07T21:39:30Z","updated_at":"2026-03-07T21:42:20Z","published_at":"2026-03-07T21:42:20Z","assets":[],"body":"## What's Changed\r\n* Fix/static filepath buffer by @jmattaa in https://github.com/jmattaa/laser/pull/64\r\n\r\nThis version removes the need of unnecessary predefined buffers, resulting in less memory being used. \r\n\r\n**Full Changelog**: https://github.com/jmattaa/laser/compare/v1.7.7...v1.7.8","mentions_count":1}
