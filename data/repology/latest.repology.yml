@@ -4,7 +4,7 @@
   visiblename: laser
   version: 0.5.0
   origversion: 0.5.0-1
-  status: unique
+  status: newest
   summary: A simple CD ripper for the GNOME desktop.
   maintainers:
     - yochananmarqos@aur
@@ -22,3 +22,29 @@
     - jmattaa@aur
   licenses:
     - MIT
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: laser
+  binnames:
+    - laser
+  visiblename: laser
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: newest
+  maintainers:
+    - spaciouscoder78@disroot.org
+  categories:
+    - gnome
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: laser
+  binnames:
+    - laser
+  visiblename: laser
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: newest
+  maintainers:
+    - spaciouscoder78@disroot.org
+  categories:
+    - gnome
